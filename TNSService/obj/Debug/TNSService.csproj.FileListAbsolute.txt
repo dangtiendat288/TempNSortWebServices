@@ -1,0 +1,7 @@
+D:\CSE445\TNSService\TNSService\bin\TNSService.dll.config
+D:\CSE445\TNSService\TNSService\bin\TNSService.dll
+D:\CSE445\TNSService\TNSService\bin\TNSService.pdb
+D:\CSE445\TNSService\TNSService\obj\Debug\TNSService.csproj.AssemblyReference.cache
+D:\CSE445\TNSService\TNSService\obj\Debug\TNSService.csproj.CoreCompileInputs.cache
+D:\CSE445\TNSService\TNSService\obj\Debug\TNSService.dll
+D:\CSE445\TNSService\TNSService\obj\Debug\TNSService.pdb

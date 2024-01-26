@@ -1,0 +1,7 @@
+D:\CSE445\TNSService\SortService\bin\SortService.dll.config
+D:\CSE445\TNSService\SortService\bin\SortService.dll
+D:\CSE445\TNSService\SortService\bin\SortService.pdb
+D:\CSE445\TNSService\SortService\obj\Debug\SortService.csproj.AssemblyReference.cache
+D:\CSE445\TNSService\SortService\obj\Debug\SortService.csproj.CoreCompileInputs.cache
+D:\CSE445\TNSService\SortService\obj\Debug\SortService.dll
+D:\CSE445\TNSService\SortService\obj\Debug\SortService.pdb
